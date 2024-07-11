@@ -1,6 +1,5 @@
 # Industrial-Human-Resource-Geo-Visualization
 
-# Industrial Human Resource Geo-Visualization
 
 ## Overview
 This project focuses on geo-visualizing the distribution and analysis of industrial human resources across various regions. The classification of main workers and marginal workers, other than cultivators and agricultural laborers, by sex and by section, division, and class, has been traditionally used to understand the economic status and employment trends in the country. Additionally, Natural Language Processing (NLP) techniques are used to analyze textual data from job postings, industry reports, and social media to gain further insights into the labor market.
